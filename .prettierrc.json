@@ -1,0 +1,19 @@
+{
+    "tabWidth": 4,
+    "printWidth": 180,
+    "overrides": [
+        {
+            "files": "*.yaml",
+            "options": {
+                "tabWidth": 2,
+                "singleQuote": true
+            }
+        },
+        {
+            "files": "*.html",
+            "options": {
+                "bracketSameLine": true
+            }
+        }
+    ]
+}
